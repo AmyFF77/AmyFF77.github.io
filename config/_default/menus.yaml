@@ -4,6 +4,7 @@
 # The weight parameter defines the order that the links will appear in.
 
 
+
 main:
 - name: Bio
 url: /
@@ -14,7 +15,9 @@ weight: 11
 - name: Talks
 url: /#talks
 weight: 12
-# News removed as requested
+- name: News 
+url: /#news 
+weight: 13
 - name: Experience
 url: experience/
 weight: 20
