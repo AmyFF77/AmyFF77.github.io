@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Alex Johnson
+title: Elizabeth América Flores Frías
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Elizabeth América
+last_name: Flores-Frías
 
 # Pronouns (optional)
-pronouns: he/him
+pronouns: she/her
 
 # Status emoji
 status:
@@ -23,147 +23,118 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Postdoctoral Researcher in Electrochemistry & Surface Engineering
 
-# Organizations/Affiliations to display in Biography blox
+# Organizations/Affiliations to display in Biography block
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Instituto de Ciencias Físicas (ICF), UNAM
+    url: https://www.fis.unam.mx/
+  - name: Laboratorio de Espectroscopía: FTIR y de Masas / Emisión Óptica / Raman y Plasmas Atmosféricos (ICF)
+    url: https://www.fis.unam.mx/laboratorios/19/laboratorio-de-espectroscopia-ftir-y-de-masas-de-emision-optica-raman-y-plasmas-atmosfericos
 
 # Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
+    url: 'mailto:america@icf.unam.mx'
+    label: E-mail
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+    url: https://github.com/AmyFF77
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
+    url: https://scholar.google.com/citations?user=YLdiQ9AAAAAJ&hl=es
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0009-0001-7621-3948
+  - icon: link
+    url: https://acmor.org/perfiles/dra-elizabeth-am-rica-flores-fr-as
+    label: ACMor profile
+  - icon: link
+    url: https://www.fis.unam.mx/directorio/1543/elizabeth-america-strong-flores-strong-frias
+    label: ICF directory
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Corrosion science (mild/carbon steel)
+  - Green corrosion inhibitors (plant extracts, biomolecules)
+  - Plasma-based surface treatments (DBD/cold plasmas)
+  - Electrochemical impedance spectroscopy (EIS)
+  - Potentiodynamic polarization & gravimetric tests
+  - Spectroscopy (FTIR, Raman, optical emission)
+  - Computational chemistry (DFT/MD) for adsorption/mechanisms
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
+  - area: Doctorado en Ingeniería y Ciencias Aplicadas
+    institution: Universidad Autónoma del Estado de Morelos (UAEMor)
     date_start: 2015-09-01
     date_end: 2019-06-30
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
+      Tesis en electroquímica de la corrosión e inhibidores verdes; caracterización por EIS, FTIR y modelado computacional.
+  - area: Maestría en Ingeniería y Ciencias Aplicadas
+    institution: Universidad Autónoma del Estado de Morelos (UAEMor)
     date_start: 2013-09-01
     date_end: 2015-05-31
     summary: |
-      GPA: 4.0/4.0
-
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
+      Enfoque en técnicas electroquímicas y modificación de superficies.
+  - area: Ingeniería Química
+    institution: Universidad Autónoma del Estado de Morelos (UAEMor)
     date_start: 2009-09-01
     date_end: 2013-05-31
     summary: |
-      GPA: 3.9/4.0
-
-      Minored in Mathematics. President of AI Club.
+      Formación en procesos químicos, materiales y caracterización.
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
+  - position: Postdoctoral Researcher
+    company_name: Instituto de Ciencias Físicas (ICF), UNAM
+    company_url: 'https://www.fis.unam.mx/'
     company_logo: ''
-    date_start: 2020-01-01
+    date_start: 2024-01-01
     date_end: ''
     summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
-    company_logo: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
-    summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Síntesis y evaluación de inhibidores de corrosión eco-amigables; tratamientos de superficie con plasmas de baja temperatura; caracterización por EIS, FTIR, Raman y emisión óptica; colaboración en divulgación científica con ACMor.
 
 # Skills
-# Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Técnicas y herramientas
     items:
-      - name: Python & PyTorch
-        description: ''
+      - name: Electrochemical Impedance Spectroscopy (EIS)
+        description: 'Modelado de circuitos equivalentes, ajuste y validación.'
         percent: 95
-        icon: code-bracket
-      - name: Machine Learning
-        description: ''
-        percent: 100
         icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
-        description: ''
+      - name: Polarización & Ensayos gravimétricos
+        description: 'Curvas Tafel, IE%, pérdida de masa.'
+        percent: 90
+        icon: beaker
+      - name: Tratamientos con plasmas fríos
+        description: 'DBD/atmósfera; modificación de superficie y adhesión.'
         percent: 85
-        icon: cloud
-  - name: Hobbies
+        icon: sparkles
+      - name: FTIR / Raman / Emisión óptica
+        description: 'Identificación de grupos funcionales y especies reactivas.'
+        percent: 90
+        icon: bolt
+      - name: DFT / MD
+        description: 'Adsorción, energías de interacción y mapeo de sinergias iónicas.'
+        percent: 75
+        icon: cpu-chip
+  - name: Gestión y divulgación
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking in the Rockies
+      - name: Redacción científica y edición
         description: ''
-        percent: 80
-        icon: person-simple-walk
-      - name: Building Custom PCs
+        percent: 85
+        icon: document-text
+      - name: Divulgación (ACMor, prensa)
         description: ''
         percent: 90
-        icon: cpu-chip
-      - name: Sci-Fi Reading
-        description: ''
-        percent: 70
-        icon: book-open
+        icon: megaphone
 
 languages:
-  - name: English
-    percent: 100
   - name: Spanish
-    percent: 50
+    percent: 100
+  - name: English
+    percent: 90
 
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Best Paper Award
-    url: https://neurips.cc/
-    date: '2022-12-01'
-    awarder: NeurIPS
-    icon: hero/trophy
-    summary: |
-      Awarded for groundbreaking work on efficient training of large models.
-  - title: AI Innovation Grant
-    url: https://www.nsf.gov/
-    date: '2021-06-15'
-    awarder: National Science Foundation
-    icon: hero/currency-dollar
-    summary: |
-      $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
-    icon: hero/academic-cap
-    summary: |
-      Recognized for contributions to scaling laws in deep learning.
+# Awards (optional)
+awards: []
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+Elizabeth América Flores Frías es investigadora postdoctoral en el Instituto de Ciencias Físicas (UNAM). Su trabajo conecta electroquímica de la corrosión, tratamientos de superficie con plasmas de baja temperatura y caracterización espectroscópica (FTIR, Raman y emisión óptica), con estudios computacionales (DFT/MD) para desentrañar los mecanismos de adsorción de inhibidores verdes. Es autora y coautora de artículos científicos y piezas de divulgación en ACMor y prensa local, y colabora en proyectos interdisciplinarios orientados a la protección de materiales y la transferencia de conocimiento a la sociedad.
+
