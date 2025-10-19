@@ -29,7 +29,7 @@ role: Postdoctoral Researcher in Electrochemistry & Surface Engineering
 organizations:
   - name: Instituto de Ciencias Físicas (ICF), UNAM
     url: https://www.fis.unam.mx/
-  - name: Laboratorio de Espectroscopía: FTIR y de Masas / Emisión Óptica / Raman y Plasmas Atmosféricos (ICF)
+  - name: "Laboratorio de Espectroscopía: FTIR y de Masas / Emisión Óptica / Raman y Plasmas Atmosféricos (ICF)"
     url: https://www.fis.unam.mx/laboratorios/19/laboratorio-de-espectroscopia-ftir-y-de-masas-de-emision-optica-raman-y-plasmas-atmosfericos
 
 # Social network links
